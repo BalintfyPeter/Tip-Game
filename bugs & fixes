@@ -1,0 +1,19 @@
+[Bugs]
+- Enter lowest highest point: Error if it's not an int
+- Main input:                 Error if it's not an int (In the loop as well)
+- Helper ON:                  The right number was not printed
+
+
+
+
+
+[2022.02.04]
+- Fixed: If main input = 1 = 0
+
+[2022.02.05]
+- Created: The Main Loop
+- Created: Back Buttons
+
+[2022.02.09]
+-Created: Logo
+-Fixed: Error if numMax < numMin
